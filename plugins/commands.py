@@ -12,7 +12,7 @@ main_buttons = [[
         InlineKeyboardButton('❣️ ᴅᴇᴠᴇʟᴏᴘᴇʀ ❣️', url='https://t.me/Revlotz')
         ],[
         InlineKeyboardButton('📜 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ', url='https://t.me/StellarLabsSupport'),
-        InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ  ', url='https://t.me/atomicitic)
+        InlineKeyboardButton('🤖 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ  ', url='https://t.me/atomicitic')
         ],[
         InlineKeyboardButton('🙋‍♂️ ʜᴇʟᴘ', callback_data='help'),
         InlineKeyboardButton('💁‍♂️ ᴀʙᴏᴜᴛ ', callback_data='about')
